@@ -63,11 +63,8 @@ class LinkedList:
         return removed.value
 
     # def reverse(self):
-    #     tmp = self.head
-    #     while tmp.next != None:
-    #         tmp.next = tmp 
-    #         tmp = tmp.next
-    #     self.head = tmp
+    #     to be coded
+
         
 
 ll = LinkedList()
